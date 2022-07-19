@@ -1,0 +1,28 @@
+{
+  "name": "@jedmud/tui-scroller-element",
+  "version": "0.0.1",
+  "description": "Jedmud TUI scroller element module.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmud/tui-scroller-element.git"
+  },
+  "keywords": [
+    "jedmud",
+    "terminal",
+    "tui",
+    "ui"
+  ],
+  "author": "Tanel Tammik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedmud/tui-scroller-element/issues"
+  },
+  "homepage": "https://github.com/jedmud/tui-scroller-element#readme",
+  "dependencies": {
+    "@jedmud/tui-elements": "^0.0.1"
+  }
+}
