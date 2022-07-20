@@ -1,6 +1,6 @@
 {
   "name": "@jedmud/tui-scroller-element",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Jedmud TUI scroller element module.",
   "main": "src/index.js",
   "scripts": {
@@ -19,10 +19,10 @@
   "author": "Tanel Tammik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jedmud/tui-scroller-element/issues"
+    "url": "https://github.com/jedmud/tui/issues"
   },
-  "homepage": "https://github.com/jedmud/tui-scroller-element#readme",
+  "homepage": "https://github.com/jedmud/tui#readme",
   "dependencies": {
-    "@jedmud/tui-elements": "^0.0.1"
+    "@jedmud/tui-elements": "0.x"
   }
 }
